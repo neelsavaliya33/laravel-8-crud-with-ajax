@@ -21,13 +21,13 @@ edit database configuration in .env file
 
 Then install dependencies using Composer
 
+Run the application with the following command
+
 $ composer install
 
 $ composer update
 
 $ php artisan:migrate
-
-Run the application with the following command
 
 $ php artisan serve
 
