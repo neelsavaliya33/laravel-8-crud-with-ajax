@@ -25,10 +25,6 @@ Run the application with the following command
 
 $ composer install
 
-$ composer update
-
-$ php artisan:migrate
-
 $ php artisan serve
 
 Remember to visit http://127.0.0.1:8000/books
