@@ -11,7 +11,7 @@ Set up
 
 To set up this project, first clone the repositiory
 
-$ git clone https://github.com/neelsavaliya33/laravel-8-crud-with-ajax.git
+$ git clone git@github.com:neelsavaliya33/laravel-8-crud-with-ajax-.git
 
 Change your working directory into the project directory
 
