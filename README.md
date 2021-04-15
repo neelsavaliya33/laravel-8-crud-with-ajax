@@ -1,4 +1,3 @@
-
 <img src="https://laravel.com/img/logotype.min.svg" width="100%">
 
 # laravel 8 Ajax Crud
@@ -17,9 +16,16 @@ $ git clone https://github.com/neelsavaliya33/laravel-8-crud-with-ajax.git
 Change your working directory into the project directory
 
 $ cd laravel-8-crud-with-ajax
+
+edit database configuration in .env file
+
 Then install dependencies using Composer
 
-composer install
+$ composer install
+
+$ composer update
+
+$ php artisan:migrate
 
 Run the application with the following command
 
